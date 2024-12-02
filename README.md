@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaxdev" alt="dhaxdev" /></a> </p>
 
-- 🤝🌱 J'aime **coder régulièrement et créer des applications pour m'amuser tout en apprenant de nouvelles choses. Transformer des idées en réalité est aussi pour moi l'une des choses les plus excitantes et les plus satisfaisantes lorsque j'y parviens**
+- 🤝🌱 J'aime **coder** régulièrement et créer des applications pour m'amuser tout en apprenant de nouvelles choses. Transformer des idées en réalité est aussi pour moi l'une des choses les plus excitantes et les plus satisfaisantes lorsque j'y parviens
 
 - 👨‍💻 Tous mes projets sont disponibles sur [dhaxdev.netlify.app](dhaxdev.netlify.app)
 
