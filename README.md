@@ -7,7 +7,7 @@
 
 - 🤝🌱 J'aime **coder** régulièrement et créer des applications pour m'amuser tout en apprenant de nouvelles choses. Transformer des idées en réalité est aussi pour moi l'une des choses les plus excitantes et les plus satisfaisantes lorsque j'y parviens
 
-- 👨‍💻 Tous mes projets sont disponibles sur <a href="dhaxdev.netlify.app">dhaxdev.netlify.app</a>
+- 👨‍💻 Tous mes projets sont disponibles sur <a href="public-repos">dhaxdev.netlify.app</a>
 
 - 📪 N'hésitez pas à me contacter ici👉 **oussenalyjoma@gmail.com**
 
