@@ -26,4 +26,4 @@
 <!-- Un espace de 20px -->
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyhoussen&show_icons=true&locale=fr" alt="dhaxdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyhoussen" alt="alyhoussen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyhoussen&" alt="alyhoussen" /></p>
