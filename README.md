@@ -1,5 +1,5 @@
 <h1 align="center">Salut !😁👋, je suis Houssen</h1>
-<p align="center">Un apprenti ingénieur logiciel, principalement spécialisé dans l'ingénierie web/ Cloud full-stack</p>
+<p align="center">Un apprenti ingénieur logiciel, principalement spécialisé dans l'ingénierie web & Cloud(learning) full-stack</p>
 
 
 - 🤝🌱 J'aime **coder** régulièrement et créer des applications pour m'amuser tout en apprenant de nouvelles choses. Transformer des idées en réalité est aussi pour moi l'une des choses les plus excitantes et les plus satisfaisantes lorsque j'y parviens
