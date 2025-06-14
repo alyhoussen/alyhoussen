@@ -14,7 +14,7 @@
 
 - 🌱 I mostly code for fun, to learn, and because I love bringing ideas to life.
 - 🧠 But also — I like building apps that solve real problems, not just for the fun.
-- 🚀 The best feeling is when something finally works after hours of trying.
+- 🚀  Nothing beats the feeling of making something work that used to live only in your head.
 - 📪 Wanna say hi? → **oussenalyjoma@gmail.com**
 
 ---
