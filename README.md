@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 😁👋 I'm Houssen</h1>
 <p align="center">
-  Junior software engineer in the making – passionate about web & cloud stuff (still learning ☁️)<br>
+  Junior software engineer in the making – passionate about web & System stuff (still learning ☁️)<br>
   I code, I mess around, I learn, I have fun. Repeat 🔁
 </p>
 
